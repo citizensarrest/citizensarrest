@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=citizensarrest&theme=tokyonight&custom_title=language+stats)
+
 <!--
 **citizensarrest/citizensarrest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
